@@ -1,2 +1,10 @@
-# EstructuraDeDatos
-Multi proyecto el cual contiene: Memoramas, Suma Matrices, Cuadrado magico, Fractal de Hilbert,Secuencia Fibonachi y varios mas 
+# Mathematical system
+- Memoramas
+- Sum of matrices
+- Matrix sum
+- Square magic
+- Fractal of hilbert
+- Fibonachi sequence
+
+* Developed with C#.
+
